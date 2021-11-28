@@ -8,7 +8,7 @@
     </tr>
     <tr>
         <td>
-            <img src="...">
+            <img src="img/A.png">
         </td>
     </tr>
 </table>
