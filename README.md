@@ -1,4 +1,4 @@
-# Jetson Nano 2GB Enclosure
+# Jetson Nano 2GB Case
 
 <table>
     <tr>
