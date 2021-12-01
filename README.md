@@ -13,6 +13,26 @@
     </tr>
 </table>
 
+<table>
+   </tr>
+        <tr>
+        <td>
+            <b>Front</b>
+        </td>
+        <td>
+            <b>Rear</b>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="img/Front.jpg">
+        </td>
+        <td>
+            <img src="img/Rear.jpg">
+        </td>
+    </tr>
+</table>
+  
 ## About
 
 ## Printing
