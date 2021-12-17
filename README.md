@@ -32,6 +32,20 @@
         </td>
     </tr>
 </table>
+
+<table>
+   </tr>
+    <tr>
+        <td>
+            <b>Assembly</b>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="img/Assembly.jpg">
+        </td>
+    </tr>
+</table>
   
 ## About
 
